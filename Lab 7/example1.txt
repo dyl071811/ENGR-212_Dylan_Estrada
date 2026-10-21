@@ -1,0 +1,9 @@
+
+
+u
+hello
+o
+u
+
+cp "../Lab6/Lyrics/all_my_life.txt" .
+
